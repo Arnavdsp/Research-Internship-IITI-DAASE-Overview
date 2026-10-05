@@ -96,7 +96,9 @@ In the output directory:
 
 ## Read the output critically
 
-Two things to check before believing any cluster:
+Two things to check before believing any cluster
+![Uploading image.png…]()
+
 
 **1. The duration-provenance columns.** A cluster whose `n_t90_none` equals its
 size is grouped by the analysis window its members fell back to, not by
